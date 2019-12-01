@@ -111,7 +111,7 @@ function draw() {
             noStroke();
             textSize(blockSize*0.4);
             textAlign(LEFT, CENTER);
-            text("*Objectively False", 20, canvas.height - 30);
+            // text("*Objectively False", 20, canvas.height - 30);
             pop();
         }
         push();
